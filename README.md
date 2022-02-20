@@ -9,3 +9,5 @@ verify the domain name using domain.com, however, it never went through and actu
 We feel that this program and website, when it works, would be an easy and personal way for students to check on what types of cookies are available at each dining hall. We feel that this is something that would be beneficial to all
 UGA students with dining halls, as the cookies that are served have become favorites of almost everyone who frequents the dining halls. We wanted to create something that would be beneficial and useful to people on our campus as well
 as something that would allow us to grow and learn more about Java and coding in general.
+
+Working Link:   https://cookiestatus847645792.wordpress.com/
